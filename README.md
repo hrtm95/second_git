@@ -1,2 +1,2 @@
 # second_git
-chnge red mde
+change red mde
